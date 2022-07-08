@@ -1,0 +1,14 @@
+.bodyBackground 
+{
+    background-image:(WhatsApp Image 2022-07-08 at 16.07.45);
+    background-position:center;
+    background-size:cover;
+}
+#myCanvas
+{
+    
+    border-width:10px;
+     background-color: white; 
+     border-style:ridge;
+     border-color: rgb(42, 211, 0);
+}
